@@ -1,7 +1,5 @@
-FROM ubuntu:latest
+FROM ruby:latest
 
-RUN ["apt update", "apt install curl"]
+COPY fib-op.rb ./
 
-ENV PORT=8080
-
-CMD ["curl", "-s", "https://github.com/rhhen122/fib/blob/master/.docker.sh", "|", "bash"]
+CMD ["ruby", "fib-op.rb"]
