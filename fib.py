@@ -3,10 +3,8 @@ b = 1
 o = 0
 i = 0
 while True:
-    # print(a)
-    print(i)
+    print(a)
     o = a + b
     a = b
     b = o
-    i += 1
-    # str(a)
+    str(a)
