@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-RUN apt update
+RUN ["apt update", "apt install curl"]
 
 ENV PORT=8080
 
