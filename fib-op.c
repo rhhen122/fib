@@ -5,8 +5,8 @@ int a = 0, b = 1;
 int main() {
     while (1) {
         a += b;
-        printf(a, "\n");
+        printf("%d", a);
         b += a;
-        printf(b, "\n");
+        printf("%d", b);
     }
 }
