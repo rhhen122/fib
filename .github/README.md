@@ -32,4 +32,7 @@ docker build -t fib-dock-c ./C-Docker
 docker run fib-dock-c
 ```
 
-###### <a href="https://war.ukraine.ua/support-ukraine/">Support Ukraine! 🇺🇦</a>
+### Credits
+Max Hendra
+
+##### <a href="https://war.ukraine.ua/support-ukraine/">Support Ukraine! 🇺🇦</a>
