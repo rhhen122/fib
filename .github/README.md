@@ -38,6 +38,12 @@ docker build -t fib-dock-js ./JS-Docker
 docker run fib-dock-js
 ```
 
+#### PHP
+```
+docker build -t fib-dock-php ./PHP-Docker
+docker run fib-dock-php
+```
+
 ### Credits
 Max Hendra
 
