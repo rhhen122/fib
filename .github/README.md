@@ -25,4 +25,11 @@ docker run fib-dock
 
 This will make a `docker` container and run the script `fib-op.rb`
 
+#### C
+Compile from source:
+```
+docker build -t fib-dock-c ./C-Docker
+docker run fib-dock-c
+```
+
 ###### <a href="https://war.ukraine.ua/support-ukraine/">Support Ukraine! 🇺🇦</a>
