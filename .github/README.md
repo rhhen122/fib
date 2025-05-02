@@ -44,6 +44,12 @@ docker build -t fib-dock-php ./PHP-Docker
 docker run fib-dock-php
 ```
 
+#### Rust
+```
+docker build -t fib-dock-rust ./RUST-Docker
+docker run fib-dock-rust
+```
+
 ### Credits
 Max Hendra
 
