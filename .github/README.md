@@ -24,3 +24,5 @@ docker run fib-dock
 ```
 
 This will make a `docker` container and run the script `fib-op.rb`
+
+###### <a href="https://war.ukraine.ua/support-ukraine/">Support Ukraine! 🇺🇦</a>
