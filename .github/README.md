@@ -3,9 +3,9 @@
 # fib
 ## A Fibonacci calculator writin in multipule languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
-<img align="left" src="image.png" height="300">
 <a href="/COPYRIGHT">Copyright</a>
 </div>
+<img align="left" src="image.png" height="300">
 
 ######
 
