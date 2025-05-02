@@ -3,8 +3,11 @@
 # fib
 ## A Fibonacci calculator writin in multipule languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
-</div>
 <img align="left" src="image.png" height="300">
+<a href="/COPYRIGHT">Copyright</a>
+</div>
+
+######
 
 This is the `ruby` script (The best preforming one). Feel free to improve any of these or just experiment.
 
