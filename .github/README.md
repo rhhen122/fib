@@ -32,6 +32,12 @@ docker build -t fib-dock-c ./C-Docker
 docker run fib-dock-c
 ```
 
+#### JS
+```
+docker build -t fib-dock-js ./JS-Docker
+docker run fib-dock-js
+```
+
 ### Credits
 Max Hendra
 
