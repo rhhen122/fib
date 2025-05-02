@@ -12,9 +12,15 @@ There are 2 different types of scripts in this repo, `fib-op` & `fib`
 Im also working on youtube video where I compare all of the languages in this repo in the <b>Grand Coding Language Olympics</b>
 
 ### How to use
-Run the following in your terminal:
+```
+docker pull rokyh/fib-dock
+docker run rokyh/fib-dock
+```
+
+Or compile the image yourself. Run the following in your terminal:
 ```
 docker build -t fib-dock ./
 docker run fib-dock
 ```
+
 This will make a `docker` container and run the script `fib-op.rb`
