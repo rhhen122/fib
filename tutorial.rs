@@ -1,6 +1,9 @@
 // In this file I will teach you my 2 main ways to calculate the fib sequence
-fn firstsol() {
+fn firstsol(e: i64) {
     // This solution was made by me -> Roky Henderson
+    if e != 0 {
+        return;
+    }
     let mut a: f64 = 0.0; // Sets first var
     let mut b: f64 = 1.0; // Sets Second var
     let mut o: f64; // Sets Third
@@ -12,9 +15,12 @@ fn firstsol() {
         b = o; // Second var = First
     }
 }
-fn secondsol() {
+fn secondsol(e: i64) {
     // This solution was made by this gut -> Max Hendra
-    let mut h: f64; // Sets first var
+    if e != 0 {
+        return;
+    }
+    let mut h: f64 = 0.0; // Sets first var
     let mut f: f64 = 1.0; // Sets second var
 
     loop { // Enters loop
@@ -24,16 +30,19 @@ fn secondsol() {
         println!("{}", f); // Prints First var
     }
 }
-fn thirdsol() {
+fn thirdsol(e: i64) {
     // This solution was made by me -> Roky Henderson
-    let mut x: f64;
-    let mut y: f64 = 1.0;
-    let mut z: f64 = 0.0;
+    if e != 0 {
+        return;
+    }
+    let mut x: f64 = 0.0; // Sets first var
+    let mut y: f64 = 1.0; // Sets second var
+    let mut z: f64 = 0.0; // Sets Third var
 
     loop {
-        x += y;
-        z += 1.0;
-        println!("{}", z);
+        x += y; // First var = The total of first var and second var
+        z += 1.0; // Third var + 1
+        println!("{}", z); // Print Third var
         y += x;
         z += 1.0;
         println!("{}", z);
@@ -47,7 +56,8 @@ fn thirdsol() {
 
 // This is the main func
 fn main() {
-    //firstsol()
-    //secondsol()
-    //thirdsol()
+    // if you pass through 0 it will run the func
+    firstsol(1);
+    secondsol(1);
+    thirdsol(1);
 }
