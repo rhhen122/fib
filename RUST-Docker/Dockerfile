@@ -1,7 +1,7 @@
 FROM rust:latest
 
-COPY fib-op.rs ./
+COPY fib-x.rs ./
 
-RUN rustc fib-op.rs
+RUN rustc fib-x.rs
 
-CMD ["./fib-op.rs"]
+CMD ["./fib-x"]
