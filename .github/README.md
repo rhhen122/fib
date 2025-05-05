@@ -17,7 +17,16 @@ Im also working on youtube video where I compare all of the languages in this re
 
 #
 
+### Tutorial.rs
+Go into the `tutorial.rs` file and change any of the functions to `0` to run them.
+```
+docker build -t fib-dock-tut ./Tutorial
+docker run fib-dock-tut
+```
+
 ### How to use
+
+#### Ruby
 ```
 docker pull rokyh/fib-dock
 docker run rokyh/fib-dock
