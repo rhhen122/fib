@@ -65,6 +65,12 @@ docker build -t fib-dock-rust ./RUST-Docker
 docker run fib-dock-rust
 ```
 
+#### Java
+```
+docker build -t fib-dock-java ./JAVA-Docker
+docker run fib-dock-java
+```
+
 ### Credits
 Max Hendra
 
