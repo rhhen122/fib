@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="fib.jpeg" height="100">
+
 # fib
 ## A Fibonacci calculator writin in multipule languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
@@ -18,7 +20,7 @@ Im also working on youtube video where I compare all of the languages in this re
 #
 
 ### Tutorial.rs
-Go into the `tutorial.rs` file and change any of the functions to `0` to run them.
+Go into the `Tutorial/tutorial.rs` file and change any of the functions to `0` to run them.
 ```
 docker build -t fib-dock-tut ./Tutorial
 docker run fib-dock-tut
