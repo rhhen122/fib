@@ -30,6 +30,7 @@
 For making this project possible!
 </h4>
 </div>
+<br>
 <img align="left" src="image.png" height="300">
 
 ######
