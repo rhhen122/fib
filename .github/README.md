@@ -3,24 +3,39 @@
 <img src="fib.jpeg" height="100">
 
 # fib
-## A Fibonacci calculator writin in multipule languages to see what out-preforms what.
+## A Fibonacci calculator written in multipul languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
-|
+<img href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html" src="http://badgen.net/static/license/VIMPNL/black">
+
 <a href="/COPYRIGHT">Copyright</a>
 |
 <a href="http://codeberg.org/rhhen122/fib">Codeberg</a>
 |
 <a href="http://github.com/rhhen122/fib">Github</a>
+|
+<a href="http://en.wikipedia.org/wiki/Fibonacci_sequence">Fibonacci Sequence Wikipedia</a>
+|
+<a href="http://en.wikipedia.org/wiki/Fibonacci">Leonardo Fibonacci Wikipedia</a>
 </div>
 <img align="left" src="image.png" height="300">
 
 ######
 
-This is the `ruby` script (The best preforming one). Feel free to improve any of these or just experiment.
+Its simple, it procedurally generates The Fibonacci Sequence eternally.
 
-There are 2 different types of scripts in this repo, `fib-op` & `fib`
+Run it via a `Docker` container or run it locally!
 
-Im also working on youtube video where I compare all of the languages in this repo in the <b>Grand Coding Language Olympics</b>
+Enjoy!
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #
 
