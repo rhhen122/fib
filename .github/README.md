@@ -3,7 +3,7 @@
 <img src="fib.jpeg" height="100">
 
 # _☰fib_ ⚡️
-## A Fibonacci calculator written in multipul languages to see what out-preforms what.
+## A Fibonacci calculator written in multiple languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
 <a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html"><img src="http://badgen.net/static/license/VIMPNL/black"></a>
 
@@ -22,9 +22,13 @@
 <h4>Special thanks to:
 
 🐳 <a href="http://www.docker.com">Docker</a>
+|
 👨‍💻 <a href="https://code.visualstudio.com">Visual Studio Code</a>
+|
 🐱 <a href="http://github.com">Github</a>
+|
 ❄️ <a href="http://codeberg.org">Codeberg</a>
+|
 🪾 <a href="http://git-scm.com">Git</a>
 <br>
 For making this project possible!
