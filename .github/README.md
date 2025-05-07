@@ -5,7 +5,7 @@
 # fib
 ## A Fibonacci calculator written in multipul languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
-<img href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html" src="http://badgen.net/static/license/VIMPNL/black">
+<a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html"><img src="http://badgen.net/static/license/VIMPNL/black"></a>
 
 <a href="/COPYRIGHT">Copyright</a>
 |
