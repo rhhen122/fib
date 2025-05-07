@@ -25,7 +25,7 @@
 
 🐳 <a href="http://www.docker.com">Docker</a>
 |
-👨‍💻 <a href="https://code.visualstudio.com">Visual Studio Code</a>
+👨‍💻 <a href="http://code.visualstudio.com">Visual Studio Code</a>
 |
 🐱 <a href="http://github.com">Github</a>
 |
