@@ -5,8 +5,10 @@
 # _☰fib_ ⚡️
 ## A Fibonacci calculator written in multiple languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
-<a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html"><img src="http://badgen.net/static/license/VIMPNL/black"></a>
+<a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">
+<img src="http://badgen.net/static/license/VIMPNL/black"></a>
 
+<br>
 <a href="/COPYRIGHT">Copyright</a>
 |
 <a href="http://codeberg.org/rhhen122/fib">Codeberg</a>
