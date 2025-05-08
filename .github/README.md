@@ -1,16 +1,8 @@
-<style>
-    small {font-size: 5px;}
-</style>
-
 <div align="center">
 
 <img src="fib.jpeg" height="100">
 
-<h1>
-
-_☰fib_ ⚡️ 
-<small>im fast as f*ck boiiii</small>
-</h1>
+# _☰fib_ ⚡️
 
 ## A Fibonacci calculator written in multiple languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
