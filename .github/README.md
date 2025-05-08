@@ -1,8 +1,16 @@
+<style>
+    small {font-size: 5px;}
+</style>
 <div align="center">
 
 <img src="fib.jpeg" height="100">
 
-# _☰fib_ ⚡️
+<h1>
+
+_☰fib_ ⚡️ 
+<small>im fast as f*ck boiiii</small>
+</h1>
+
 ## A Fibonacci calculator written in multiple languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
 <a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">
@@ -31,7 +39,7 @@
 |
 ❄️ <a href="http://codeberg.org">Codeberg</a>
 |
-🪾 <a href="http://git-scm.com">Git</a>
+🌲 <a href="http://git-scm.com">Git</a>
 <br>
 For making this project possible!
 </h4>
