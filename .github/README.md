@@ -34,7 +34,7 @@
 |
 ❄️ <a href="http://codeberg.org">Codeberg</a>
 |
-💫 <a href="https://www.debian.org/">Debian</a>
+💫 <a href="http://www.debian.org/">Debian</a>
 |
 🌲 <a href="http://git-scm.com">Git</a>
 <br>
