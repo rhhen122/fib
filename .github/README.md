@@ -23,6 +23,8 @@
 <a href="http://en.wikipedia.org/wiki/Fibonacci">Leonardo Fibonacci Wikipedia</a>
 |
 <a href="http://roky.rhhen.xyz">Who is rhhen122?</a>
+|
+<a href="https://rhhen122.github.io/fib/">Fib Webpage</a>
 
 <h4>Special thanks to:
 
