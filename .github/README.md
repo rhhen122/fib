@@ -46,19 +46,14 @@ For making this project possible!
 
 ######
 
-Its simple, it procedurally generates The Fibonacci Sequence eternally.
+If you are not very technologically sassy then don't worry! We have done all the hard work for you using `Docker`
 
-Run it via a `Docker` container or run it locally!
+First install the codebase, then run one of the commands inside of the `fib` dir and boom!
 
-Enjoy!
+Within seconds your runnning the code on your machine without ever installing any dependencies.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+When you run the program you are starting up a tiny linux machine install the dependencies to that and then running it on the machine.
+
 <br>
 
 #
