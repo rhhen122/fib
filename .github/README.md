@@ -12,6 +12,8 @@
 <br>
 <a href="/COPYRIGHT">Copyright</a>
 |
+<a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">License</a>
+|
 <a href="http://codeberg.org/rhhen122/fib">Codeberg</a>
 |
 <a href="http://github.com/rhhen122/fib">Github</a>
@@ -31,6 +33,8 @@
 🐱 <a href="http://github.com">Github</a>
 |
 ❄️ <a href="http://codeberg.org">Codeberg</a>
+|
+💫 <a href="https://www.debian.org/">Debian</a>
 |
 🌲 <a href="http://git-scm.com">Git</a>
 <br>
