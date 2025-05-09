@@ -3,19 +3,131 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+        <article id="main"></article>
+        <a href="#main"><button class="up">^</button></a>
         <div align="center">
             <img src="fib.jpeg">
             <h1><i>fib</i></h1>
-
+            <h4>A Fibonacci calculator written in multiple languages to see what out-preforms what.</h4>
+            <br>
+            <img src="http://badgen.net/github/commits/rhhen122/fib/">
+            <a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">
+            <img src="http://badgen.net/static/license/VIMPNL/black"></a>
+            <br>
+            <a href="/COPYRIGHT">Copyright</a>
+            |
+            <a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">License</a>
+            |
+            <a href="http://codeberg.org/rhhen122/fib">Codeberg</a>
+            |
+            <a href="http://github.com/rhhen122/fib">Github</a>
+            |
+            <a href="http://en.wikipedia.org/wiki/Fibonacci_sequence">Fibonacci Sequence Wikipedia</a>
+            |
+            <a href="http://en.wikipedia.org/wiki/Fibonacci">Leonardo Fibonacci Wikipedia</a>
+            |
+            <a href="http://roky.rhhen.xyz">Who is rhhen122?</a>
+            |
+            <a href="https://rhhen122.github.io/fib/">Fib Webpage</a>
+            <br>
+            <p></p>
             <a href="https://github.com/rhhen122/fib/releases">Download</a>
             <br>
             <a href="https://codeberg.org/rhhen122/fib/tags">Tags/Newer Releases</a>
             <br>
             <a href="https://codeberg.org/rhhen122/fib/src/branch/master/.github/README.md">README</a>
             <br>
-            <code>
-                git clone http://codeberg.org/rhhen122/fib.git ./fib
+
+            <hr>
+
+            <!-- Text -->
+
+            <h5>What is the Fibonacci Sequence?</h5>
+            <p>The Fibonacci Sequence is a mathmatical <i>rythem</i> that is often found in nature through things like sunflower seeds.</p>
+            <p>It was discovered by Leonardo Fibonacci in 1202. Its simple, heres how: 0 + 1 = 1, 1 + 1 = 2, 2 + 1 = 3, 3 + 1 = 4 ...</p>
+
+            <hr>
+
+            <h5>Why are we trying to calculate it?</h5>
+            <p>Simply put: for fun. And also we - we is refering to all the brilliant people who have helped this project - want to beat the world record!</p>
+
+            <hr>
+
+            <h5>How do we calculate it?</h5>
+            <p>For now I will just add the contents of <code>tutorial.rs</code> in here:</p>
+            <code align="left">
+                <pre>
+// In this file I will teach you my 2 main ways to calculate the fib sequence
+fn firstsol(e: i64) {
+    // This solution was made by me -> Roky Henderson
+    if e != 0 {
+        return;
+    }
+    let mut a: f64 = 0.0; // Sets first var
+    let mut b: f64 = 1.0; // Sets Second var
+    let mut o: f64; // Sets Third
+
+    loop { // Enters loop
+        println!("{}", a); // Prints the value of the first var
+        o = a + b; // Third var = The total of first and second var
+        a = b; // First var = second var
+        b = o; // Second var = First
+    }
+}
+fn secondsol(e: i64) {
+    // This solution was made by this gut -> Max Hendra
+    if e != 0 {
+        return;
+    }
+    let mut h: f64 = 0.0; // Sets first var
+    let mut f: f64 = 1.0; // Sets second var
+
+    loop { // Enters loop
+        h += f; // First var = Total of First var and Second var
+        println!("{}", h); // Prints Second var
+        f += h; // Second var = Total of First var and Second var
+        println!("{}", f); // Prints First var
+    }
+}
+fn thirdsol(e: i64) {
+    // This solution was made by me -> Roky Henderson
+    if e != 0 {
+        return;
+    }
+    let mut x: f64 = 0.0; // Sets first var
+    let mut y: f64 = 1.0; // Sets second var
+    let mut z: f64 = 0.0; // Sets Third var
+
+    loop {
+        x += y; // First var = The total of first var and second var
+        z += 1.0; // Third var + 1
+        println!("{}", z); // Print Third var
+        y += x;
+        z += 1.0;
+        println!("{}", z);
+    }
+}
+
+
+
+
+
+
+// This is the main func
+fn main() {
+    // if you pass through 0 it will run the func
+    firstsol(1);
+    secondsol(1);
+    thirdsol(1);
+}
+                </pre>
             </code>
+            <hr>
+            <div class="code">
+                <code>
+                    git clone http://codeberg.org/rhhen122/fib.git ./fib
+                </code>
+            </div>
         </div>
     </body>
 </html>
