@@ -122,6 +122,12 @@ docker build -t fib-dock-go ./GO-Docker
 docker run fib-dock-go
 ```
 
+#### C++
+```
+docker build -t fib-dock-cpp ./CPP-Docker
+docker run fib-dock-cpp
+```
+
 ### Credits
 Max Hendra
 
