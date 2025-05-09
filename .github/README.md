@@ -42,6 +42,8 @@
 <br>
 For making this project possible!
 </h4>
+
+I love you all and hopefully `fib` can continue being awesome!
 </div>
 <br>
 <img align="left" src="image.png" height="300">
@@ -112,6 +114,12 @@ docker run fib-dock-rust
 ```
 docker build -t fib-dock-java ./JAVA-Docker
 docker run fib-dock-java
+```
+
+#### Go
+```
+docker build -t fib-dock-go ./GO-Docker
+docker run fib-dock-go
 ```
 
 ### Credits
