@@ -42,8 +42,6 @@
 <br>
 For making this project possible!
 </h4>
-
-I love you all and hopefully `fib` can continue being awesome!
 </div>
 <br>
 <img align="left" src="image.png" height="300">
