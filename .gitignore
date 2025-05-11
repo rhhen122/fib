@@ -10,5 +10,7 @@
 
 /.vscode
 /LICENSE
-/todo
+**/todo
+**/todo.md
+**/todo.txt
 **/.DS_Store
