@@ -11,12 +11,4 @@
 /.vscode
 /LICENSE
 /todo
-
-# DS Store
-
-/.DS_Store
-/.github/.DS_Store
-/C-Docker/.DS_Store
-/JS-Docker/.DS_Store
-/PHP-Docker/.DS_Store
-/RUST-Docker/.DS_Store
+**/.DS_Store
