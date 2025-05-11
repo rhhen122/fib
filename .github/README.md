@@ -126,6 +126,12 @@ docker build -t fib-dock-cpp ./CPP-Docker
 docker run fib-dock-cpp
 ```
 
+#### Python
+```
+docker build -t fib-dock-py ./BF-Docker
+docker run fib-dock-py
+```
+
 ### Credits
 Max Hendra
 
