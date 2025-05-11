@@ -77,8 +77,8 @@ docker run rokyh/fib-dock
 
 Or compile the image yourself. Run the following in your terminal:
 ```
-docker build -t fib-dock ./
-docker run fib-dock
+docker build -t fib-dock-rb ./RUBY-Docker
+docker run fib-dock-rb
 ```
 
 This will make a `docker` container and run the script `fib-op.rb`
