@@ -25,8 +25,6 @@
 <a href="http://roky.rhhen.xyz">Who is rhhen122?</a>
 |
 <a href="https://rhhen122.github.io/fib/">Web Docs</a>
-|
-<a href="../docs/ github/">Github Docs</a>
 
 <h4>Special thanks to:
 
