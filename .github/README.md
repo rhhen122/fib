@@ -44,7 +44,7 @@ For making this project possible!
 </h4>
 </div>
 <br>
-<img align="left" src="media/fib.jpeg" height="300">
+<img align="left" src="media/image.png" height="300">
 
 ######
 
