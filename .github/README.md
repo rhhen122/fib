@@ -62,9 +62,9 @@ When you run the program you are starting up a tiny linux machine install the de
 
 ### Install
 ```
-git clone http://github.com/rhhen122/fib.git ./fib
-cd fib ; rm -rf .git ; echo 'For all commands related to Docker please reference the /docker/ dir'
+curl -s https://raw.githubusercontent.com/rhhen122/fib/refs/heads/master/extra/install.sh | bash
 ```
+
 #
 
 ### Tutorial.rs
