@@ -10,7 +10,7 @@
 <img src="http://badgen.net/static/license/VIMPNL/black"></a>
 
 <br>
-<a href="/COPYRIGHT">Copyright</a>
+<a href="/extra/COPYRIGHT">Copyright</a>
 |
 <a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">License</a>
 |
