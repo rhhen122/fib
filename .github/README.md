@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="fib.jpeg" height="100">
+<img src="media/fib.jpeg" height="100">
 
 # _☰fib_ ⚡️
 
@@ -44,7 +44,7 @@ For making this project possible!
 </h4>
 </div>
 <br>
-<img align="left" src="image.png" height="300">
+<img align="left" src="media/fib.jpeg" height="300">
 
 ######
 
