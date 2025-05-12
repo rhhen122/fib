@@ -1,4 +1,4 @@
-<img src=".github/fib.jpeg" height="100">
+<img src=".github/media/fib.jpeg" height="100">
 
 # Our COC
 
