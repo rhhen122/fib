@@ -60,6 +60,13 @@ When you run the program you are starting up a tiny linux machine install the de
 
 #
 
+### Install
+```
+git clone http://github.com/rhhen122/fib.git ./fib
+cd fib ; rm -rf .git ; echo 'For all commands related to Docker please reference the /docker/ dir'
+```
+#
+
 ### Tutorial.rs
 Go into the `Tutorial/tutorial.rs` file and change any of the functions to `0` to run them.
 ```
