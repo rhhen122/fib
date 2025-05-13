@@ -28,15 +28,15 @@
 
 <h4>Special thanks to:
 
-🐳 <a href="http://www.docker.com">Docker</a>
+<img src="media/docker.png" height="10"> <a href="http://www.docker.com">Docker</a>
 |
-👨‍💻 <a href="http://code.visualstudio.com">Visual Studio Code</a>
+<img src="media/vscode.png" height="10"> <a href="http://code.visualstudio.com">Visual Studio Code</a>
 |
-🐱 <a href="http://github.com">Github</a>
+<img src="../git/media/github-white.png" height="10"> <a href="http://github.com">Github</a>
 |
-❄️ <a href="http://codeberg.org">Codeberg</a>
+<img src="media/codeberg.png" height="10"> <a href="http://codeberg.org">Codeberg</a>
 |
-💫 <a href="http://www.debian.org/">Debian</a>
+<img src="media/debian.png" height="10"> <a href="http://www.debian.org/">Debian</a>
 |
 <img src="../git/media/git.png" height="10"> <a href="http://git-scm.com">Git</a>
 <br>
