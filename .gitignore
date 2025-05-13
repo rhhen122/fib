@@ -1,0 +1,16 @@
+# bins
+
+**/fib-limit
+**/fib-op
+**/fib
+**/a.out
+/fib-x
+
+# extras
+
+/.vscode
+/LICENSE
+**/todo
+**/todo.md
+**/todo.txt
+**/.DS_Store
