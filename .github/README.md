@@ -38,7 +38,7 @@
 |
 💫 <a href="http://www.debian.org/">Debian</a>
 |
-🌲 <a href="http://git-scm.com">Git</a>
+<img src="../git/media/git.png" height="10"> <a href="http://git-scm.com">Git</a>
 <br>
 For making this project possible!
 </h4>
