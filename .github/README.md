@@ -39,6 +39,8 @@
 <img src="media/debian.png" height="10"> <a href="http://www.debian.org/">Debian</a>
 |
 <img src="../git/media/git.png" height="10"> <a href="http://git-scm.com">Git</a>
+|
+<img src="media/helix.svg" height="10"> <a href="http://helix-editor.com">Helix</a>
 <br>
 For making this project possible!
 </h4>
