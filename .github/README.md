@@ -10,6 +10,8 @@
 <img src="http://badgen.net/static/Very/Code Rich/green?icon=https://www.svgrepo.com/show/535314/code.svg">
 
 <br>
+<a href="/basics/1.md">Basic Docs
+|
 <a href="/extra/COPYRIGHT">Copyright</a>
 |
 <a href="http://www.apache.org/licenses/LICENSE-2.0">License</a>
