@@ -1,3 +1,6 @@
+<img src="http://raw.githubusercontent.com/rhhen122/fib/refs/heads/master/.github/media/fib.jpeg" height="100" align="left"><h1><i>☰fib</i> ⚡️</h1>
+<br>
+
 v<Version Number> Release
 Main Changes:
  - Point 1
