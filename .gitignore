@@ -9,7 +9,6 @@
 # extras
 
 /.vscode
-/LICENSE
 **/todo
 **/todo.md
 **/todo.txt
