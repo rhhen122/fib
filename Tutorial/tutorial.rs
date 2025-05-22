@@ -16,7 +16,7 @@ fn firstsol(e: i64) {
     }
 }
 fn secondsol(e: i64) {
-    // This solution was made by this gut -> Max Hendra
+    // This solution was made by this guy -> Max Hendra
     if e != 0 {
         return;
     }
