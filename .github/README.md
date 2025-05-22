@@ -1,5 +1,4 @@
 <div align="center">
-<!-- nothing -->
 <img src="media/fib.jpeg" height="100">
 
 # _☰fib_ ⚡️
