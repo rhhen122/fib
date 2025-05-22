@@ -1,0 +1,17 @@
+What i believe is the cause of this bug:
+ - Point 1
+ - Point 2
+ - Point 3
+<optional> How do i propose to fix this bug
+ - Point 1
+ - Point 2
+ - Point 3
+How has it effected my usage of fib:
+ - Point 1
+ - Point 2
+ - Point 3
+Will this render my usage of the repo nil? [Yes/No]
+
+ - Thanks <Your Name Here>
+
+<Optional Signature>

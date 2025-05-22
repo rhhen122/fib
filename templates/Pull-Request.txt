@@ -1,0 +1,14 @@
+Changes:
+ - Change 1
+ - Change 2
+ - Change 3
+What have a tested:
+ - Path/to/file1
+ - Path/to/file2
+ - Path/to/file3
+Have i made contributions before? [Yes/No]
+Do i plan to make more contributions in the future [Yes/No]
+
+ - Thanks <Your Name Here>
+
+<Optional Signature>

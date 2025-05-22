@@ -140,6 +140,12 @@ docker build -t fib-dock-py ./BF-Docker
 docker run fib-dock-py
 ```
 
+#### Shell
+```
+docker build -t fib-dock-sh ./SHELL-Docker
+docker run fib-dock-sh
+```
+
 ### Credits
 Max Hendra
 
