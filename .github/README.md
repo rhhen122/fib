@@ -11,7 +11,7 @@
 <br>
 <a href="/extra/COPYRIGHT">Copyright</a>
 |
-<a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">License</a>
+<a href="http://www.apache.org/licenses/LICENSE-2.0">License</a>
 |
 <a href="http://codeberg.org/rhhen122/fib">Codeberg</a>
 |
@@ -23,7 +23,7 @@
 |
 <a href="http://roky.rhhen.xyz">Who is rhhen122?</a>
 |
-<a href="https://rhhen122.github.io/fib/">Web Docs</a>
+<a href="http://rhhen122.github.io/fib/">Web Docs</a>
 
 <h4>Special thanks to:
 
