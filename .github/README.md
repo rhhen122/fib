@@ -5,8 +5,9 @@
 
 ## A Fibonacci calculator written in multiple languages to see what out-preforms what.
 <img src="http://badgen.net/github/commits/rhhen122/fib/">
-<a href="https://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">
+<a href="http://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">
 <img src="http://badgen.net/static/license/VIMPNL/black"></a>
+<img src="http://badgen.net/static/Very/Code Rich/green?icon=https://www.svgrepo.com/show/535314/code.svg">
 
 <br>
 <a href="/extra/COPYRIGHT">Copyright</a>
