@@ -14,8 +14,6 @@
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/featured/featured-gluten-free.svg)](https://forthebadge.com)
 
-<br>
-
 <a href="/basics/1.md">Basic Docs</a>
 |
 <a href="/extra/COPYRIGHT">Copyright</a>
