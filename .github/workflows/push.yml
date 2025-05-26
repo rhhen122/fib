@@ -1,0 +1,12 @@
+name: Push Handler
+on: [push]
+jobs:
+  push:
+    name: pusher
+    runs-on: ubuntu-latest
+    steps:
+      - run: git remote add codeberg https://codeberg.org/rhhen122/fib.git
+      - run: git push origin master
+      - run: git push codeberg master
+      - run: git push origin --tags
+      - run: git push codeberg --tags
