@@ -1,0 +1,7 @@
+name: out
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - run rustc code/RUST/fib-x.rs --out-dir code/out/linux
