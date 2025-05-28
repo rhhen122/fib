@@ -1,5 +1,5 @@
 name: gitleaks
-on: push
+on: [ push, pull_request ]
 jobs:
   scan:
     name: gitleaks
