@@ -153,6 +153,12 @@ docker build -t fib-dock-sh ./SHELL-Docker
 docker run fib-dock-sh
 ```
 
+#### Typescript
+```
+docker build -t fib-dock-ts ./TS-Docker
+docker run fib-dock-ts
+```
+
 ### Credits
 Max Hendra
 
