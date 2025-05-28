@@ -1,9 +1,5 @@
 name: gitleaks
-on:
-  push:
-    [ master ]
-  pull_request:
-    [ master ]
+on: push
 jobs:
   scan:
     name: gitleaks
