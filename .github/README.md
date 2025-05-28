@@ -8,7 +8,7 @@
 <a href="http://vimp.rhhen.xyz/Licenses/lookinggood/non/UNLICENSE.html">
 <img src="http://badgen.net/static/license/VIMPNL/black"></a>
 <img src="http://badgen.net/static/Very/Code Rich/green?icon=https://www.svgrepo.com/show/535314/code.svg">
-<img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue">
+<a href="https://github.com/gitleaks/gitleaks-action"><img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue"></a>
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/featured/featured-gluten-free.svg)](https://forthebadge.com)
