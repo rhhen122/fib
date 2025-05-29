@@ -1,0 +1,49 @@
+$maincolor: #ffffff;
+$secondarycolor: #000000;
+$thirdcolor: #222222;
+$textcolor: #000000;
+$font: "Noto Serif";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  background-color: $secondarycolor;
+  margin: 20px;
+  color: $textcolor;
+  font-size: 20px;
+
+  font-family: $font;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+}
+
+a {
+  color: $textcolor;
+}
+a:hover {
+  text-decoration: wavy underline;
+  cursor: pointer;
+}
+
+.top {
+  color: $textcolor;
+  padding-left: 20px;
+  position: fixed;
+  top: 0;
+  left:0;
+  width: 100%;
+  background-color: $maincolor;
+}
+
+.main {
+  color: $textcolor;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 90px;
+  width: 97%;
+  background-color: $maincolor;
+}
