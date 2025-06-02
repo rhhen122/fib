@@ -1,3 +1,7 @@
+<img src=".github/media/fib.jpeg" height="100">
+
+<img src="http://badgen.net/static/Code Of Conduct/fib/blue">
+
 # Contribution
 So you want to contribute to fib? Cool! But there are some requirements...
 
