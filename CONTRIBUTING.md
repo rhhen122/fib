@@ -16,3 +16,4 @@ Steps:
  - Now make a PR by going to <a href="https://github.com/rhhen122/fib/compare">https://github.com/rhhen122/fib/compare</a>
  - Using the <a href="/templates/Pull-Request.txt">PR Template</a>
  - Now send your PR in for review
+ - Keep in mind by running `bash extra/push.sh` it will push all tags and current commits to both codeberg and github
