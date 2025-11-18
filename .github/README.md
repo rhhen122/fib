@@ -63,7 +63,7 @@ First install the codebase, then run one of the commands inside of the `fib` dir
 
 Within seconds your runnning the code on your machine without ever installing any dependencies.
 
-When you run the program you are starting up a tiny linux machine install the dependencies to that and then running it on the machine.
+When you run the program you are starting up a tiny linux machine which installs the dependencies for you!
 
 <br>
 
